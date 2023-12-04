@@ -1,0 +1,40 @@
+Krav på projektplan
+
+
+Planen skall innehålla.
+
+    Kort bakgrundsbeskrivning (hur kom ni på idén, vad ligger bakom idén)
+    Vision/syfte (varför, vilken effekt kommer uppnås och vilken nytta (or) skapas)
+    Vilket problem/behov löser ni?
+    Vem är kunden/användaren?
+    Vad är lösningen?
+    Mål (effektmål, projektmål, teammål)
+    Omfattning - WBS - avgränsningar
+    Användarresan tillsammans med Användarberättelser (krav)
+    Teamet - hur kommer du bemanna ditt team
+    Aktivitetsplan/Backlogg/Sprintplanering
+    Tids- och resursplan
+
+    Källhänvisningar skall anges.
+
+
+Ni skall driva projektet med agila metoder.
+
+
+Krav på er presentation:
+
+    Er presentation skall bygga på NABC - metoden med en krok och ett avslut.
+    Er presentation skall också beskriva hur ni kommer genomföra er idé
+    Er presentation skall ha en mottagare, börja er presentation med att tala om vem ni talar till
+    Ni bör tala om vad ni heter och var ni kommer ifrån/varför ni presenterar er idé
+    Er presentation skall vara så nära 10 min som möjligt.
+    Er presentation skall bygga på NABC - metoden med en krok och ett avslut.
+    Du skall delta aktivt i muntlig presentation (14/12 obligatoriskt seminarie)
+	
+	
+Krav på er pototyp:
+
+    Er prototyp skall visualisera er tjänst/produkt
+    Er prototyp skall vara interaktiv, det skall gå att klicka på den och se hur tjänsten kan användas och upplevas av en användare.
+
+
