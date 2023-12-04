@@ -1,0 +1,27 @@
+Extern kund Kalle 
+-------------------
+(Actor) Kalle vill boka ett fiskeäventyr/resa
+
+(Need) Funktion saknas för att boka upplevelse
+
+(Benefit) 
+    Ger möjlighet för Kalle att boka fiskeäventyr
+    Hyra utrustningspaket (all included/all inclusive?)
+    Merförsäljning (gadgets)
+
+
+Internt på företaget
+---------------------
+(Actor) Försäljaren Sven vill ge kunden lättare att köpa mer, öka 
+kundkretsen (färdiga paket företagsevent)
+
+(Need) 
+    Enklare att boka företagsevent 
+    Tydligare vad företaget erbjuder
+
+(Benefit)
+    Logistiken blir enklare (kundfokus)
+    Merförsäljning 
+    Använda kunddata
+
+
