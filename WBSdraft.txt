@@ -3,12 +3,14 @@
 1.2 eventbeskrivning
 1.3 Tillvalsoptioner mat/fika
 1.4 Tillvalsoptioner utrustning
+1.5 Funktion på websida (flera lev av mat/fika), direktkoppling till leverantör
+1.6 Funktion till websida utrustning (hyra eller köpa)
 
 2. Bokningsfunktion event
 2.1 Vilken event och tidpunkt
 2.2 Kund info (från datalager)
-2.3 Valda tillvalsoptioner mat/fika
-2.4 Valda utrustningsoptioner 
+2.3 Valda tillvalsoptioner mat/fika (vilka passar vid olika event/längd på event)
+2.4 Valda utrustningsoptioner (eventstyrning, vilka passar - säsongsberoende)
 
 3. Dataanalys
 3.1 Försäljning event
@@ -16,6 +18,14 @@
 3.4 Täckningsgrad för respektive event / tidpunkt
 
 4. UX-websidor
+4.1 Hur följer vi befintlig webstruktur, går det att använda befintlig struktur?
+4.2 Eventsida
+4.3 bokningsida
+4.4. Kundsida
+4.5 Loginsida
+4.6 Statistiksida
+4.7 Hur knytes Vildlands produkter till event - förutom genom uthyrning?
+
 
 5. kund
 5.1 loginfunktion
